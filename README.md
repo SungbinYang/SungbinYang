@@ -7,7 +7,12 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ysb05222)](https://solved.ac/ysb05222)
-	
+
+<h2> SungbinYang's Education </h2>
+<ul>
+	<li>🏛 경복고등학교(2012.03 ~ 2015.02)</li>
+	<li>🏛 명지전문대학교(2016.03 ~ 2021.02)</li>
+	<li>💡 TrigitSoftware (2020.11 ~ ) </li>
 </div>
 
 ### Hello! Welcome! 👋
