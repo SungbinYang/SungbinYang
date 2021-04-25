@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungbinYang&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p></p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysb05222)](https://solved.ac/ysb05222/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysb05222)](https://solved.ac/ysb05222)
 	
 </div>
 
