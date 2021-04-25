@@ -15,6 +15,6 @@
 	<li>💡 TrigitSoftware (2020.11 ~ ) </li>
 </div>
 
-[![Resume](http://img.shields.io/badge/-Resume%20?style=flat-square&logo=github&link=https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)](https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)
+[![Resume](http://img.shields.io/badge/-Resume%20Notion-black?style=flat-square&logo=github&link=https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)](https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)
 
 ### Hello! Welcome! 👋
