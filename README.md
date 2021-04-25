@@ -19,5 +19,6 @@
 
 <h2>기술 스택</h2>
 <img src="https://img.shields.io/badge/-Java-yellow" />
+<img src="https://img.shields.io/badge/-php-blueviolet" />
 
 ### Hello! Welcome! 👋
