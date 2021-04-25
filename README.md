@@ -19,7 +19,7 @@
 
 <h2>기술 스택</h2>
 <div float="left" left="10px">
-	<img src="https://img.shields.io/badge/-Java-yellow" />   <img src="https://img.shields.io/badge/-php-blueviolet" />  <img src="https://img.shields.io/badge/-Spring-green" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-Junit5-red" /> <img src="https://img.shields.io/badge/-mockito-orange" /> <img src="https://img.shields.io/badge/-QueryDsl-blue" /> <img src="https://img.shields.io/badge/-SpringMVC-slateblue" /> <img src="https://img.shields.io/badge/-Spring%20Security-success" /> <img src="https://img.shields.io/badge/-Gradle-lighjtgrey" /> <img src="https://img.shields.io/badge/-Maven-grey" /> <img src="https://img.shields.io/badge/-Git-inactive" />
+	<img src="https://img.shields.io/badge/-Java-yellow" />   <img src="https://img.shields.io/badge/-php-blueviolet" />  <img src="https://img.shields.io/badge/-Spring-green" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-Junit5-red" /> <img src="https://img.shields.io/badge/-mockito-orange" /> <img src="https://img.shields.io/badge/-QueryDsl-blue" /> <img src="https://img.shields.io/badge/-SpringMVC-slateblue" /> <img src="https://img.shields.io/badge/-Spring%20Security-success" /> <img src="https://img.shields.io/badge/-Gradle-grey" /> <img src="https://img.shields.io/badge/-Maven-grey" /> <img src="https://img.shields.io/badge/-Git-inactive" />
 </div>
 
 ### Hello! Welcome! 👋
