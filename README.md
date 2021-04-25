@@ -21,7 +21,10 @@
 <div float="left" left="10px">
 	<img src="https://img.shields.io/badge/-Java-yellow" />   <img src="https://img.shields.io/badge/-php-blueviolet" />  <img src="https://img.shields.io/badge/-Spring-green" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-Junit5-red" /> <img src="https://img.shields.io/badge/-mockito-orange" /> <img src="https://img.shields.io/badge/-QueryDsl-blue" /> <img src="https://img.shields.io/badge/-SpringMVC-slateblue" /> <img src="https://img.shields.io/badge/-Spring%20Security-success" /> <img src="https://img.shields.io/badge/-Gradle-grey" /> <img src="https://img.shields.io/badge/-Maven-grey" /> <img src="https://img.shields.io/badge/-Git-inactive" />
 </div>
+<p></p>
 <a href="https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d" >더 자세한 스택을 보고 싶으면...</a>
+
+<h2>Language</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungbinYang&langs_count=8)](https://github.com/SungbinYang/github-readme-stats)
 	
