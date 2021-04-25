@@ -17,9 +17,11 @@
 
 [![Resume](http://img.shields.io/badge/-Resume%20Notion-black?style=flat-square&logo=github&link=https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)](https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)
 
-<h2>기술 스택</h2>
+<h2>기술 스택 간략소개</h2>
 <div float="left" left="10px">
 	<img src="https://img.shields.io/badge/-Java-yellow" />   <img src="https://img.shields.io/badge/-php-blueviolet" />  <img src="https://img.shields.io/badge/-Spring-green" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-Junit5-red" /> <img src="https://img.shields.io/badge/-mockito-orange" /> <img src="https://img.shields.io/badge/-QueryDsl-blue" /> <img src="https://img.shields.io/badge/-SpringMVC-slateblue" /> <img src="https://img.shields.io/badge/-Spring%20Security-success" /> <img src="https://img.shields.io/badge/-Gradle-grey" /> <img src="https://img.shields.io/badge/-Maven-grey" /> <img src="https://img.shields.io/badge/-Git-inactive" />
 </div>
+<a href="https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d" >더 자세한 스택을 보고 싶으면...</a>
+	
 
 ### Hello! Welcome! 👋
