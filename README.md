@@ -19,7 +19,7 @@
 
 <h2>기술 스택</h2>
 <div float="left" left="10px">
-	<img src="https://img.shields.io/badge/-Java-yellow" /><img src="https://img.shields.io/badge/-php-blueviolet" />
+	<img src="https://img.shields.io/badge/-Java-yellow" /> <img src="https://img.shields.io/badge/-php-blueviolet" />
 </div>
 
 ### Hello! Welcome! 👋
