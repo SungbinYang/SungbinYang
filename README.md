@@ -18,7 +18,7 @@
 [![Resume](http://img.shields.io/badge/-Resume%20Notion-black?style=flat-square&logo=github&link=https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)](https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d)
 
 <h2>기술 스택</h2>
-<div float="left" width="50%">
+<div float="left" left="10px">
 	<img src="https://img.shields.io/badge/-Java-yellow" /><img src="https://img.shields.io/badge/-php-blueviolet" />
 </div>
 
