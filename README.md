@@ -3,7 +3,7 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsungbinYang%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungbinYang&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungbinYang&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/SungbinYang/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ysb05222)](https://solved.ac/ysb05222)
@@ -22,6 +22,8 @@
 	<img src="https://img.shields.io/badge/-Java-yellow" />   <img src="https://img.shields.io/badge/-php-blueviolet" />  <img src="https://img.shields.io/badge/-Spring-green" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen" /> <img src="https://img.shields.io/badge/-Junit5-red" /> <img src="https://img.shields.io/badge/-mockito-orange" /> <img src="https://img.shields.io/badge/-QueryDsl-blue" /> <img src="https://img.shields.io/badge/-SpringMVC-slateblue" /> <img src="https://img.shields.io/badge/-Spring%20Security-success" /> <img src="https://img.shields.io/badge/-Gradle-grey" /> <img src="https://img.shields.io/badge/-Maven-grey" /> <img src="https://img.shields.io/badge/-Git-inactive" />
 </div>
 <a href="https://www.notion.so/12d54d08d81249f9bc4f2822006dc43d" >더 자세한 스택을 보고 싶으면...</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungbinYang&langs_count=8)](https://github.com/SungbinYang/github-readme-stats)
 	
 
 ### Hello! Welcome! 👋
