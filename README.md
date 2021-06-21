@@ -26,7 +26,8 @@
 
 <h2>Language</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungbinYang&langs_count=6)](https://github.com/SungbinYang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungbinYang&layout=compact)](https://github.com/SungbinYang)
+
 	
 
 ### Hello! Welcome! 👋
