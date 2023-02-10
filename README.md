@@ -2,7 +2,7 @@
 [![Resume](https://img.shields.io/badge/Resume-white?style=flat-square&logo=Notion&logoColor=black)](https://psychedelic-sociology-4e5.notion.site/12d54d08d81249f9bc4f2822006dc43d)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/%EC%84%B1%EB%B9%88-%EC%96%91-14a23b207/)
 [![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=Velog&logoColor=#20C997)](https://velog.io/@bini)
-[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=Google&logoColor=##4285F4)](yangseongbin3763@gmail.com)
+[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=Google&logoColor=##4285F4)](mailto:yangseongbin3763@gmail.com)
 
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
