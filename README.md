@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=Velog&logoColor=#20C997)](https://velog.io/@bini)
 [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=Google&logoColor=##4285F4)](mailto:yangseongbin3763@gmail.com)
 
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white) -->
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,10 +18,11 @@
 ---
 
 ### 🙋🏻 About Me
+
 - Hi I'm Robert Yang.
 - I am a front-end developer aspiring to be a back-end developer.
 - Mainly using java, javascript
 
 ### 💡 Work Experience
-- **Trigitsoftware** - Software Development Engineer *(Nov 2020 ~ PRESENT)*
 
+- **Trigitsoftware** - Software Development Engineer _(Nov 2020 ~ PRESENT)_
