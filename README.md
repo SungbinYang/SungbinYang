@@ -26,3 +26,6 @@
 ### 💡 Work Experience
 
 - **Trigitsoftware** - Software Development Engineer _(Nov 2020 ~ PRESENT)_
+
+### 📋 Contents - Individual
+- [2023 주니어 개발자 회고록](https://yang-sungbin.tistory.com/entry/2023%EB%85%84-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
