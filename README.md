@@ -17,10 +17,9 @@
 
 ### 🙋🏻 About Me
 
-- Hi I'm Robert Yang.
+- Hi I'm Sungbin Yang (Robert).
 - I am a front-end developer aspiring to be a back-end developer.
 - Mainly using java, javascript
-- 
 
 ### 💡 Work Experience
 
