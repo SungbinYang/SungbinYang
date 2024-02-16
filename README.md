@@ -14,7 +14,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ![intellij Idea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/intellijidea-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 <img src="./static/api.gif" width="500" />
 
