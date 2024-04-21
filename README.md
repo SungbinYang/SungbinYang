@@ -19,6 +19,8 @@
 
 <img src="./static/api.gif" width="500" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SungbinYang)](https://git.io/streak-stats)
+
 ---
 
 ### 🙋🏻 About Me
