@@ -8,7 +8,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&logo=JQuery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white) -->
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -36,5 +36,5 @@
 
 ### 📋 Contents - Individual
 
-- [2023 주니어 개발자 회고록](https://yang-sungbin.tistory.com/entry/2023%EB%85%84-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
-- [라떼 개발자](https://yang-sungbin.tistory.com/entry/%EB%9D%BC%EB%96%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90)
+- [2023 주니어 개발자 회고록](https://sungbin.kr/2023년-주니어-개발자-회고록/)
+- [라떼 개발자](https://sungbin.kr/라떼-개발자/)
