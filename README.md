@@ -40,6 +40,6 @@
 - [라떼 개발자](https://sungbin.kr/라떼-개발자/)
 
 ### :octocat: Contributions
-- **spring-framework**
+- **spring-projects/spring-framework**
   - [PR](https://github.com/spring-projects/spring-framework/pull/33612)
     - Refactor unwrapOptional method to improve readability and performance
