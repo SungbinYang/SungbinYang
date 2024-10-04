@@ -43,3 +43,5 @@
 - **spring-projects/spring-framework**
   - [PR](https://github.com/spring-projects/spring-framework/pull/33612)
     - Refactor unwrapOptional method to improve readability and performance
+  - [PR](https://github.com/spring-projects/spring-framework/pull/33646)
+    - Refactor Replace hardcoded path separator with PATH_SEPARATOR constant
