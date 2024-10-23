@@ -10,6 +10,8 @@
 ![JQuery](https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&logo=JQuery&logoColor=white)
 <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white) -->
 
+![Java](https://img.shields.io/badge/java-000B1D?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
