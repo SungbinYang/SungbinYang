@@ -39,6 +39,7 @@
 
 - [2023 주니어 개발자 회고록](https://sungbin.kr/2023년-주니어-개발자-회고록/)
 - [라떼 개발자](https://sungbin.kr/라떼-개발자/)
+- [2024 주니어 개발자 회고록](https://sungbin.kr/2024년-주니어-개발자-회고록/)
 
 ### :octocat: Contributions
 - **spring-projects/spring-framework**
