@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&logo=JQuery&logoColor=white)
+<!-- ![JQuery](https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&logo=JQuery&logoColor=white) -->
 
 ![Java](https://img.shields.io/badge/java-000B1D?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -38,6 +38,7 @@
 
 ### 📋 Contents - Individual
 
+- [2025년 1분기 회고(feat. 중요한 것은 포기하지 않는 마음)](https://sungbin.kr/중요한-것은-포기하지-않는-마음/)
 - [2023 주니어 개발자 회고록](https://sungbin.kr/2023년-주니어-개발자-회고록/)
 - [라떼 개발자](https://sungbin.kr/라떼-개발자/)
 - [2024 주니어 개발자 회고록](https://sungbin.kr/2024년-주니어-개발자-회고록/)
