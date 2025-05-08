@@ -1,4 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsungbinYang%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsungbinYang%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%253A%252F%252Fgithub.com%252FSungbinYang&title=hits&title_bg=030303&count_bg=663bde&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/%EC%84%B1%EB%B9%88-%EC%96%91-14a23b207/)
 [![Blog](https://img.shields.io/badge/blog-000000?style=flat-square&logo=blogger&logoColor=#000000)](https://sungbin.kr/)
 [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=Google&logoColor=##4285F4)](mailto:yangseongbin3763@gmail.com)
