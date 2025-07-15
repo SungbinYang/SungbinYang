@@ -27,12 +27,12 @@
 ### 🙋🏻 About Me
 
 - Hi I'm Sungbin Yang(Robert).
-- I am a front-end developer aspiring to be a back-end developer.
-- Mainly using java, javascript
+- I am a back-end developer.
+- Mainly using java
 
 ### 💡 Work Experience
 
-- **Trigitsoftware** - Software Development Engineer _(Nov 2020 ~ PRESENT)_
+- **Trigitsoftware** - Software Development Engineer _(Nov 2020 ~ JUL 2025)_
 - **Inflearn Warmingup Study Club** - Inflearn Warmingup Study Club Supporters _(April 2024 ~ May 2024)_
 
 ### 📋 Contents - Individual
