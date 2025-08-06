@@ -37,6 +37,7 @@
 
 - **Trigitsoftware** - Software Development Engineer _(Nov 2020 ~ JUL 2025)_
 - **Inflearn Warmingup Study Club** - Inflearn Warmingup Study Club Supporters _(April 2024 ~ May 2024)_
+- **SelectStar** - Backend Engineer _(AUGUST 2025 ~ PRESENT)_
 
 ### 📋 Contents - Individual
 
