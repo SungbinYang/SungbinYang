@@ -31,7 +31,7 @@
 
 - Hi I'm Sungbin Yang(Robert).
 - I am a back-end developer.
-- Mainly using java
+- Mainly using java, kotlin
 
 ### 💡 Work Experience
 
