@@ -8,18 +8,18 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
 
-![Java](https://img.shields.io/badge/java-000B1D?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/java-000B1D?style=for-the-badge&logo=openjdk&logoColor=white) -->
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<!-- ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) -->
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) -->
 
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+<!-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) -->
 
-![intellij Idea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<!-- ![intellij Idea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Visua lStudio Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visua lStudio Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
 
 <img src="./static/api.gif" width="500" />
 
@@ -35,9 +35,9 @@
 
 ### 💡 Work Experience
 
-- **Trigitsoftware** - Software Development Engineer _(Nov 2020 ~ JUL 2025)_
-- **Inflearn Warmingup Study Club** - Inflearn Warmingup Study Club Supporters _(April 2024 ~ May 2024)_
 - **SelectStar** - Backend Engineer _(AUGUST 2025 ~ PRESENT)_
+- **Inflearn Warmingup Study Club** - Inflearn Warmingup Study Club Supporters _(April 2024 ~ May 2024)_
+- **Trigitsoftware** - Software Development Engineer _(Nov 2020 ~ JUL 2025)_
 
 ### 📋 Contents - Individual
 
