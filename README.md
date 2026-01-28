@@ -25,6 +25,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SungbinYang)](https://git.io/streak-stats)
 
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjE4MjgyNDcw)](https://www.git-ranker.com/users/SungbinYang)
+
 ---
 
 ### 🙋🏻 About Me
