@@ -19,7 +19,7 @@
 ![Eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Visua lStudio Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
 
-<img src="./static/api.gif" width="600" />
+<img src="./static/api.gif" width="500" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SungbinYang)](https://git.io/streak-stats)
 
