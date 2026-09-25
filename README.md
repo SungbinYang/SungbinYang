@@ -3,8 +3,6 @@
 [![Blog](https://img.shields.io/badge/blog-000000?style=flat-square&logo=blogger&logoColor=#000000)](https://sungbin.kr/)
 [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=Google&logoColor=##4285F4)](mailto:yangseongbin3763@gmail.com)
 
-<!—- hello —>
-
 <img src="./static/api.gif" width="500" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SungbinYang)](https://git.io/streak-stats)
